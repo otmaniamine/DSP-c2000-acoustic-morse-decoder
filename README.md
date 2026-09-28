@@ -54,6 +54,9 @@ flowchart LR
    * Silence $\approx 700\text{ ms} \rightarrow$ Espace mot
 4. **Reconstruction & Lookup** vers le texte ASCII final.
 
+![Carte DSP C2000](images/carte_DSP.png)
+*Carte Texas Instruments C2000 (DSP28x) utilisée pour l'acquisition et le décodage.*
+
 ![Signal reçu et décodé](images/receiver%20decoder%20signal%20example%20.png)
 *Signal acquis et segmenté pour le décodage.*
 
