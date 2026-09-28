@@ -1,0 +1,11 @@
+# Build and IDE files
+.vscode/
+*.o
+*.obj
+*.out
+*.exe
+*.log
+
+# MATLAB temporary files
+*.asv
+*.mat
